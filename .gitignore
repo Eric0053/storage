@@ -1,0 +1,19 @@
+﻿# Build outputs
+bin/
+obj/
+
+# Visual Studio folder
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet / MSBuild caches (通常不需要進版控)
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
