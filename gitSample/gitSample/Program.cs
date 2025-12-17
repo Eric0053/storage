@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-<<<<<<< HEAD
+            Console.WriteLine("test");
+            Console.WriteLine("test2");
             Console.ReadLine();
             List<string> list = new List<string> {"a","b","c" };
             
@@ -15,8 +16,6 @@
                 Console.ReadLine();
 
             }
-=======
->>>>>>> parent of 53ab668 (new  txt)
         }
     }
 }
