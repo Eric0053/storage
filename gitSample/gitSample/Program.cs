@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-
+            Console.WriteLine("test");
             Console.ReadLine();
             List<string> list = new List<string> {"a","b","c" };
             
